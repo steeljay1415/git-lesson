@@ -1,1 +1,1 @@
-**bold**_Italic_~~Strikethrough~~# Heading## Heading 2### Heading 3
+# Webpage example**Information in bold**## Example smaller heading_Description in italics_### Example subheading~~strikethrough test~~
